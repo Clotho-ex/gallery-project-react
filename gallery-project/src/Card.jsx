@@ -24,7 +24,26 @@ import img22 from "./assets/images/snow-tree.jpg";
 import img23 from "./assets/images/tree-bark.jpg";
 import img24 from "./assets/images/view.jpg";
 import img25 from "./assets/images/yone.jpg";
-
+import img26 from "./assets/images/group-of-cats.jpg";
+import img27 from "./assets/images/wind-girl.jpg";
+import img28 from "./assets/images/flowers-2.jpg";
+import img29 from "./assets/images/po.jpg";
+import img30 from "./assets/images/lama.jpg";
+import img31 from "./assets/images/anime-girl.jpg";
+import img32 from "./assets/images/istanbul-villa.jpg";
+import img33 from "./assets/images/some-woman.jpg";
+import img34 from "./assets/images/child-painting.jpg";
+import img35 from "./assets/images/girl-7.jpg";
+import img36 from "./assets/images/combust.jpg";
+import img37 from "./assets/images/pooh-2.jpg";
+import img38 from "./assets/images/church.jpg";
+import img39 from "./assets/images/city.jpg";
+import img40 from "./assets/images/mjolnir.jpg";
+import img41 from "./assets/images/jerry.jpg";
+import img42 from "./assets/images/sea.jpg";
+import img43 from "./assets/images/otter-heart.jpg";
+import img44 from "./assets/images/istanbul-view.jpg";
+import img45 from "./assets/images/hades.png";
 const cardData = [
   {
     title: "Lil Birdy",
@@ -32,7 +51,7 @@ const cardData = [
     description: "This bird is from 1995",
   },
   {
-    title: "Poh",
+    title: "Pooh",
     imgSrc: img2,
     description: "Very special cat",
   },
@@ -150,6 +169,106 @@ const cardData = [
     title: "Bankai",
     imgSrc: img25,
     description: "Senbonzakura kageyoshi",
+  },
+  {
+    title: "Cat Gossip",
+    imgSrc: img26,
+    description: "Group of Cats",
+  },
+  {
+    title: "Wind Woman",
+    imgSrc: img27,
+    description: "Hair Flying",
+  },
+  {
+    title: "Flowers",
+    imgSrc: img28,
+    description: "Lego-like Flowers",
+  },
+  {
+    title: "Po",
+    imgSrc: img29,
+    description: "Dragon Guy Resting",
+  },
+  {
+    title: "Llama",
+    imgSrc: img30,
+    description: "We Have a Farm",
+  },
+  {
+    title: "Romantic Girl",
+    imgSrc: img31,
+    description: "Is She Crying",
+  },
+  {
+    title: "Istanbul Villa",
+    imgSrc: img32,
+    description: "Very Expensive",
+  },
+  {
+    title: "Mustard Gal",
+    imgSrc: img33,
+    description: "Yellow Summer Dress",
+  },
+  {
+    title: "Heart Tree",
+    imgSrc: img34,
+    description: "Knock-off of Ygdrassil",
+  },
+  {
+    title: "Short Hair Girl",
+    imgSrc: img35,
+    description: "Don't cut your hair like this",
+  },
+  {
+    title: "Combustion Guy",
+    imgSrc: img36,
+    description: "Avatar",
+  },
+  {
+    title: "Pooh Number 2",
+    imgSrc: img37,
+    description: "Special Cat",
+  },
+  {
+    title: "Church",
+    imgSrc: img38,
+    description: "Yeah",
+  },
+  {
+    title: "Taksim",
+    imgSrc: img39,
+    description: "Memories",
+  },
+  {
+    title: "Mjolnir",
+    imgSrc: img40,
+    description: "Thunder God",
+  },
+  {
+    title: "Albino Jerry",
+    imgSrc: img41,
+    description: "Yeah",
+  },
+  {
+    title: "Odin Death",
+    imgSrc: img42,
+    description: "Looks Like It",
+  },
+  {
+    title: "Otter With Hearts",
+    imgSrc: img43,
+    description: "Cuteness",
+  },
+  {
+    title: "Window to Greece",
+    imgSrc: img44,
+    description: "Beautiful Eh",
+  },
+  {
+    title: "Zagreus",
+    imgSrc: img45,
+    description: "The Flame Licked Guy",
   },
 ];
 
